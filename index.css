@@ -1,5 +1,5 @@
 .all{
-    height: 650px;
+    height: 750px;
     width: 500px;
     margin-left: 400px;
 }
@@ -26,7 +26,7 @@
 .introduction{
     height: 100px;
     width: 400px;
-    padding: 0px 0px 0px 50px;
+    padding: 0px 0px 20px 50px;
     font-size: 23px;
 }
 
